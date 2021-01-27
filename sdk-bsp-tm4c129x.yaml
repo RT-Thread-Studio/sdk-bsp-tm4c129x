@@ -67,7 +67,6 @@ template_projects:
     - .project
     - .settings
     - applications
-    - build
     - cconfig.h
     - drivers
     - Kconfig
