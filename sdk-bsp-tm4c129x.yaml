@@ -7,7 +7,7 @@ board:
   description_zh: 德州仪器（TI）的 TM4C129x Tiva™C 系列连接开发套件是一种多功能且功能丰富的工程平台。该套件凸显了120MHz的TIVA C系列TM4C129XNCZAD ARM ®的Cortex™-M4微控制器。它包括一个集成的10/100以太网MAC + PHY以及许多其他关键功能。该套件还包括一个在线调试接口（ICDI）和广泛的软件产品。它们提供了用于关键功能，源代码示例和重要实用程序的库，以使专业工程师能够快速，高效地构建和调试基于C代码的解决方案。
   emulator_machine: ''
   large_image: documents/images/board_large.png
-  name: TM4C129X-DK-EVAL
+  name: TM4C129X-TI-DK
   price_cn: 1300.00 CNY
   price_global: 185.00 USD
   sale_contact_cn: https://www.ti.com.cn/tool/cn/SW-DK-TM4C129X
